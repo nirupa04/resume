@@ -1,0 +1,50 @@
+.heading{
+    color:palevioletred;
+    display:flex;
+    justify-content:space-between;
+    padding-top:20px;
+}
+
+
+p{
+    padding:10px;
+}
+li{
+    padding:10px;
+}
+table,th,td{
+    width:900px;
+    text-align:center;
+ }
+
+.btm{
+    display:flex;
+    justify-content:space-between;
+}
+
+img{
+    height:150px;
+   
+}
+.table{
+    border: 1px solid black;
+}
+.container{
+    margin-left:50px;
+    margin-right:50px;
+}
+h3{
+    color:rgb(101, 101, 162) !important;
+}
+ul{
+    
+}
+
+
+
+
+
+
+ 
+
+
